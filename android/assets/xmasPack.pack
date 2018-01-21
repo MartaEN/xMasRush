@@ -1,0 +1,285 @@
+
+texturePack1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+snowmanDead
+  rotate: false
+  xy: 2, 724
+  size: 820, 100
+  orig: 820, 100
+  offset: 0, 0
+  index: -1
+monsterWalking
+  rotate: false
+  xy: 2, 826
+  size: 630, 100
+  orig: 630, 100
+  offset: 0, 0
+  index: -1
+snowmanWalking
+  rotate: false
+  xy: 1284, 2
+  size: 576, 100
+  orig: 576, 100
+  offset: 0, 0
+  index: -1
+snowmanIdle
+  rotate: false
+  xy: 824, 724
+  size: 448, 100
+  orig: 448, 100
+  offset: 0, 0
+  index: -1
+buttonUp
+  rotate: false
+  xy: 2, 928
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+buttonDown
+  rotate: false
+  xy: 194, 928
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+sunWithBG
+  rotate: false
+  xy: 634, 826
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 824, 826
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 946, 826
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+medkitWithBG
+  rotate: false
+  xy: 1068, 826
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hatWithBG
+  rotate: false
+  xy: 1284, 104
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dirUpWithBG
+  rotate: false
+  xy: 1406, 104
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dirRightWithBG
+  rotate: false
+  xy: 1528, 104
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dirLeftWithBG
+  rotate: false
+  xy: 1650, 104
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+deerWithBG
+  rotate: false
+  xy: 1772, 104
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+cloverWithBG
+  rotate: false
+  xy: 1894, 104
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 1284, 226
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+carrotWithBG
+  rotate: false
+  xy: 1406, 226
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+cakeWithBG
+  rotate: false
+  xy: 1528, 226
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+signToTheRight
+  rotate: false
+  xy: 386, 928
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+signToTheLeft
+  rotate: false
+  xy: 475, 928
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 564, 928
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+whiteSquare
+  rotate: false
+  xy: 756, 826
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+whiteCircle
+  rotate: false
+  xy: 634, 948
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 696, 948
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+medkit
+  rotate: false
+  xy: 758, 948
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 824, 948
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+gift3
+  rotate: false
+  xy: 946, 948
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+gift2
+  rotate: false
+  xy: 1068, 948
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+gift1
+  rotate: false
+  xy: 1190, 826
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+deer
+  rotate: false
+  xy: 1190, 888
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+carrot
+  rotate: false
+  xy: 1190, 950
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+cakepiece
+  rotate: false
+  xy: 1862, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+cake
+  rotate: false
+  xy: 1924, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 2, 979
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+tile5
+  rotate: false
+  xy: 46, 979
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+tile2
+  rotate: false
+  xy: 88, 979
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+tile0
+  rotate: false
+  xy: 130, 979
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 194, 975
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
